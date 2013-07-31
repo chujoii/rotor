@@ -1,0 +1,59 @@
+#+STARTUP: indent
+#+TITLE: rotor
+
+#+OPTIONS: LaTeX:t          Do the right thing automatically (MathJax)
+#+OPTIONS: LaTeX:dvipng     Force using dvipng images
+#+OPTIONS: LaTeX:nil        Do not process LaTeX fragments at all
+#+OPTIONS: LaTeX:verbatim   Verbatim export, for jsMath or so
+#+ATTR_HTML: width="10in"
+
+% org-export-with-LaTeX-fragments
+
+
+
+README.org --- description
+
+
+
+Copyright (C) 2012 Roman V. Prikhodchenko
+
+
+
+Author: Roman V. Prikhodchenko <chujoii@gmail.com>
+
+
+
+  This file is part of rotor.
+
+  rotor is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  rotor is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with rotor.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
+* Keywords:
+rotary scanner space ultrasonic infrared ir laser sensor
+
+
+
+* Description:
+
+
+* Usage:
+use it
+
+* History:
+Project created at 2013-07(Jul)-31
+
+  
+* Dependences:
+  
